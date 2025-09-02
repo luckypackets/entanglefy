@@ -9,13 +9,13 @@ importers:
   .:
     devDependencies:
       '@sveltejs/vite-plugin-svelte':
-        specifier: ^6.1.1
+        specifier: ^6.1.4
         version: 6.1.4(svelte@5.38.6)(vite@7.1.4)
       svelte:
-        specifier: ^5.38.1
+        specifier: ^5.38.6
         version: 5.38.6
       vite:
-        specifier: ^7.1.2
+        specifier: ^7.1.4
         version: 7.1.4
 
 packages:
