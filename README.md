@@ -1,2 +1,2 @@
 # entanglefy
-see the connections with your liked songs on spotify
+...it's all connected..... [your spotify liked songs] 
